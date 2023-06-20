@@ -1,7 +1,7 @@
-# Nuestra practica grupal (colaborativo)
+# Practica colaborativa
 
-- Charles Silva @devcharles
-- Mike Valencia @MikeVale16
-- Francisco Reyes @Francis318
-- Eduardo Candaudap @ecandaudap
-- Paco Rivera @DevPaco1
+1. Charles Silva @devcharles
+2. Mike Valencia @MikeVale16
+3. Francisco Reyes @Francis318
+4. Eduardo Candaudap @ecandaudap
+5. Paco Rivera @DevPaco1
